@@ -1,0 +1,58 @@
+_repo: Dialogues-of-the-Dead_17667
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Montagu, Mrs. (Elizabeth)
+    alias: Montagu, Elizabeth Robinson
+    birthdate: 1720
+    deathdate: 1800
+    gutenberg_agent_id: '38372'
+    url: http://www.gutenberg.org/2009/agents/38372
+  - agent_name: Lyttelton, George Lyttelton, Baron
+    birthdate: 1709
+    deathdate: 1773
+    gutenberg_agent_id: '7529'
+    url: http://www.gutenberg.org/2009/agents/7529
+    wikipedia: http://en.wikipedia.org/wiki/George_Lyttelton%2C_1st_Baron_Lyttelton
+  editor:
+    agent_name: Morley, Henry
+    birthdate: 1822
+    deathdate: 1894
+    gutenberg_agent_id: '1355'
+    url: http://www.gutenberg.org/2009/agents/1355
+    wikipedia: http://en.wikipedia.org/wiki/Henry_Morley
+description: Dialogues XXVI-XXVIII are by Elizabeth Montagu.
+gutenberg_issued: '2006-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17667'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Imaginary conversations'
+- !lcc 'PR'
+- !lcsh 'Dialogues, English -- Early works to 1800'
+tableOfContents: I. Lord Falkland; Mr. Hampden -- II. Louis le Grand; Peter the Great
+  -- III. Plato; Fenelon -- IV. Mr. Addison; Dr. Swift -- V. Ulysses; Circe -- VI.
+  Mercury; An English Duellist; A North-American Savage -- VII. Pliny the Elder; Pliny
+  the Younger -- VIII. Fernando Cortez; William Penn -- IX. Marcus Portius Cato; Messalla
+  Corvinus -- X. Christina, Queen of Sweden; Chancellor Oxenstiern -- XI. Titus Vespasianus;
+  Publius Cornelius Scipio Africanus -- XII. Henry Duke of Guise; Machiavel -- XIII.
+  Virgil; Horace; Mercury; Scaliger the Elder -- XIV. Boileau; Pope -- XV. Octavia;
+  Portia; Arria -- XVI. Louise de Coligni, Princess of Orange; Frances Wasingham,
+  Countess of Essex and of Clanricard; before, Lady Sidney -- XVII. Marcus Brutus;
+  Pomponius Atticus -- XVIII. William the Third, King of England; John De Witt, Pensioner,
+  of Holland -- XIX. M. Apicius; Darteneuf -- XX. Alexander the Great; Charles the
+  Twelfth, King of Sweden -- XXI. Cardinal Ximenes; Cardinal Wolsey -- XXII. Lucian;
+  Rabelais -- XXIII. Pericles; Cosmo de Medicis, the first of that Name -- XXIV. Locke;
+  Bayle -- XXV. Archibald, Earl of Douglas, Duke of Touraine; John, Duke of Argyle
+  and Greenwich, Field-Marshal of His Britannic Majesty's Forces -- XXVI. Cadmus;
+  Hercules -- XXVII. Mercury; And a modern fine Lady -- XXVIII. Plutarch; Charon;
+  And a modern Bookseller.
+title: Dialogues of the Dead
+url: http://www.gutenberg.org/ebooks/17667
